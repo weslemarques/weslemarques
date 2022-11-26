@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-- Cursando Analise e Desenvolvimento de Sistemas<br>- Foco: Back End<br>- Java <br>- HTML e CSS<br>- JavaScript  
+- Cursando Analise e Desenvolvimento de Sistemas<br>- Back End<br>- Java <br>- HTML e CSS<br>- JavaScript  
 
 
 # 💻 Stacks:
