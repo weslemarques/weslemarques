@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 💫 About:
 - Cursando Analise e Desenvolvimento de Sistemas<br>- Back End<br>- Java <br>- HTML e CSS<br>- JavaScript  
 
 
