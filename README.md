@@ -1,5 +1,4 @@
-# 💫 About:
-- Cursando Analise e Desenvolvimento de Sistemas<br>- Back End<br>- Java <br>- HTML e CSS<br>- JavaScript  
+# 💫 Ola! Eu sou Wesle Reinan
 
 
 # 💻 Stacks:
