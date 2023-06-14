@@ -9,8 +9,8 @@
  
 <div>
 <a href="https://github.com/reinanmarques">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinanmarques&showw_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinanmarques&layout=compact&langs_count=16&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslemarques&showw_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslemarques&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,7 +32,7 @@
  
 <div> 
  <a href = "wesleremarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reinan-marques-0383b2256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wesle-marques-0383b2256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
