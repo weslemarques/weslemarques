@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7BAABA&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7BAABA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wesle+Marques;I'm+20+years+old;I'm+from+Brazil;I+Graduated+System+Analysis+and+Developmen;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7BAABA&size=35&center=false&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wesle+Marques;I'm+20+years+old;I'm+from+Brazil;I+Graduated+System+Analysis+and+Developmen;Be+Welcome!+:%29)](https://git.io/typing-svg)
+##
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=weslemarques&show_icons=true&count_private=true&hide_border=true&title_color=7BAABA&icon_color=7BAABA&text_color=7BAABA&bg_color=0d1117" alt="Wesle Marques github stats" /> 
@@ -27,4 +27,3 @@
 <a href="https://www.linkedin.com/in/wesle-marques-0383b2256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7BAABA&height=100&section=footer"/>
