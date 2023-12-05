@@ -15,10 +15,10 @@
 
 
 ### Studying in this moment:
+
+![Angular](	https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=FF0000)&nbsp;
 ![CSharp](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120)&nbsp;
 ![Dotnet](	https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
-![Dart](	https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0C6FBD)&nbsp;
-![Flutter](	https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=4391BD)&nbsp;
 
 ##
 
