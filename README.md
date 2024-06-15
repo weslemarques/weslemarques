@@ -3,7 +3,7 @@
    
    
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF&width=435&lines=Olá!+👋+Meu+nome+é+Wesle+Marques+😃️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f0&width=435&lines=Olá!+👋+Meu+nome+é+Wesle+Marques+😃️)](https://git.io/typing-svg)
   
   
  <img align="right" width="375"    src= "https://user-images.githubusercontent.com/110351770/217705553-f4629d9a-3984-4082-a08b-0233a3cb599d.gif">
@@ -29,7 +29,7 @@
   
   <div align="center">  
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleMarques&layout=compact&hide_border=true&title_color=AB82FD&text_color=CB6CE6&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleMarques&layout=compact&hide_border=true&title_color=0f0&text_color=0f0&bg_color=0d1117" />
 </div>
    
   
