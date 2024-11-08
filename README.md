@@ -43,7 +43,7 @@
  <h2 > Tecnologias principais</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,idea,cs,dotnet" />
   </a>
 </p>
      
@@ -53,7 +53,7 @@
  <h2 align="center" >Atualmente Estudando:</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=nodejs," />
   </a>
 </p>
      
